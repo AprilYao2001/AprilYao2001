@@ -4,7 +4,7 @@
 📖 Major in computer science <br>
 📩 Email : yaoapril52@gmail.com <br>
 
-I’m interested in software engineering, UI/UX design, and recently...🧐 computer graphics and game!
+I’m interested in software engineering, UI/UX design, and recently...😵 busy with *dissertation* and *apply for graduate program*.
 
 
 <br>
