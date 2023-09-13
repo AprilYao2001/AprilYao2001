@@ -1,6 +1,6 @@
 # Hey👋, I’m Siyu Yao, aka April.
 
-🎓 Current graduate student at the University of Southern California. <br>
+🎓 Current graduate student at the University of Southern California <br>
 👩🏻‍🎓 Earned bachelor's degree from the University of Nottingham <br>
 📖 Major in computer science <br>
 📩 Email : yaoapril52@gmail.com <br>
