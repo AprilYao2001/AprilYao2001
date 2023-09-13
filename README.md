@@ -1,14 +1,15 @@
-# Hey👋, I’m Siyu Yao, AKA April.
+# Hey👋, I’m Siyu Yao, aka April.
 
-🎓 Student at University of Nottingham <br>
+🎓 Current graduate student at the University of Southern California. <br>
+👩🏻‍🎓 Earned bachelor's degree from the University of Nottingham <br>
 📖 Major in computer science <br>
 📩 Email : yaoapril52@gmail.com <br>
 
-I’m interested in software engineering, UI/UX design, and recently...😵 busy with *dissertation* and *apply for graduate program*.
-
+I’m interested in software engineering, UI/UX design, and recently...🧐want delve deeper into game development.<br>
+🏃🏻New move to LA to start fresh acdamic journey, and seeking internship opportunities.
 
 <br>
-👯Any questions? Hit me up!
+👯Any questions? Hit me up by email!
 
 
 <!---
